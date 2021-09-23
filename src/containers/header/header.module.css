@@ -1,0 +1,13 @@
+.header {
+	width: 100vw;
+	height: 50px;
+	font-size: 2rem;
+	font-weight: bold;
+	background-color: cornflowerblue;
+	display: flex;
+	justify-content: space-around;
+	padding: 0 20px;
+}
+.target {
+	color: white;
+}
